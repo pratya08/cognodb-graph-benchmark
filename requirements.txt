@@ -1,0 +1,5 @@
+python-arango==8.3.3
+gqlalchemy==1.10.0
+neo4j==5.28.4
+pydgraph==25.2.0
+python-dotenv==1.2.3

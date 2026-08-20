@@ -1,0 +1,10 @@
+{
+  "database": "Dgraph",
+  "workload": "mixed concurrent read/write",
+  "runs": 100,
+  "p50_ms": 5.365570000094522,
+  "p95_ms": 9.396508000008907,
+  "min_ms": 4.437578999841207,
+  "max_ms": 20.945927999946434,
+  "mean_ms": 6.176296309984082
+}

@@ -1,0 +1,10 @@
+{
+  "database": "Neo4j",
+  "workload": "1-hop traversal",
+  "runs": 100,
+  "p50_ms": 72.961,
+  "p95_ms": 77.372,
+  "min_ms": 71.718,
+  "max_ms": 86.238,
+  "mean_ms": 73.818
+}

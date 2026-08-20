@@ -1,0 +1,12 @@
+[
+  {
+    "database": "ArangoDB",
+    "workload": "indexed filtered lookup",
+    "runs": 100,
+    "p50_ms": 241.62314700001275,
+    "p95_ms": 299.4914426000207,
+    "min_ms": 241.1115620000146,
+    "max_ms": 314.8752790000344,
+    "mean_ms": 247.65637150999908
+  }
+]

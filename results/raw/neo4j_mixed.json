@@ -1,0 +1,10 @@
+{
+  "database": "Neo4j",
+  "workload": "mixed concurrent read/write",
+  "runs": 100,
+  "p50_ms": 73.95994299986342,
+  "p95_ms": 82.74945299990577,
+  "min_ms": 72.05768699986947,
+  "max_ms": 142.67635099986364,
+  "mean_ms": 76.11131932998433
+}

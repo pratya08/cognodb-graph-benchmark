@@ -1,0 +1,10 @@
+{
+  "database": "Memgraph",
+  "workload": "3-hop traversal",
+  "runs": 100,
+  "p50_ms": 274.951,
+  "p95_ms": 293.343,
+  "min_ms": 273.331,
+  "max_ms": 373.054,
+  "mean_ms": 277.958
+}

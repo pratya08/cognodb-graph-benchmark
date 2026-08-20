@@ -1,0 +1,10 @@
+{
+  "database": "Memgraph",
+  "workload": "mixed concurrent read/write",
+  "runs": 100,
+  "p50_ms": 547.7729100000488,
+  "p95_ms": 561.3895699998466,
+  "min_ms": 546.1899679999078,
+  "max_ms": 615.5158950000441,
+  "mean_ms": 550.9985983699835
+}

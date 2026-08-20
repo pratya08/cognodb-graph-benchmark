@@ -1,0 +1,10 @@
+{
+  "database": "ArangoDB",
+  "workload": "mixed concurrent read/write",
+  "runs": 100,
+  "p50_ms": 237.0094740000468,
+  "p95_ms": 300.496298999974,
+  "min_ms": 235.98058100003527,
+  "max_ms": 319.7687159999987,
+  "mean_ms": 247.0948683400036
+}

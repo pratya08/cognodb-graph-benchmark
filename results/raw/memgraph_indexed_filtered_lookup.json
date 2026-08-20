@@ -1,0 +1,10 @@
+{
+  "database": "Memgraph",
+  "workload": "indexed filtered lookup",
+  "runs": 100,
+  "p50_ms": 274.49636199980887,
+  "p95_ms": 276.6265860000203,
+  "min_ms": 273.91676000024745,
+  "max_ms": 279.4293629999629,
+  "mean_ms": 274.8880868700053
+}
